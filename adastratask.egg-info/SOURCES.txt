@@ -1,0 +1,8 @@
+Task.py
+setup.py
+adastratask.egg-info/PKG-INFO
+adastratask.egg-info/SOURCES.txt
+adastratask.egg-info/dependency_links.txt
+adastratask.egg-info/entry_points.txt
+adastratask.egg-info/requires.txt
+adastratask.egg-info/top_level.txt

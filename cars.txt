@@ -1,0 +1,44 @@
+{
+  "cars": [
+    {
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2022,
+      "price": 20000,
+      "horse_power": 139,
+      "weight": 2900
+    },
+    {
+      "make": "Ford",
+      "model": "Fiesta",
+      "year": 2021,
+      "price": 18000,
+      "horse_power": 120,
+      "weight": 2578
+    },
+    {
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2022,
+      "price": 22000,
+      "horse_power": 158,
+      "weight": 2775
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "year": 2023,
+      "price": 25000,
+      "horse_power": 160,
+      "weight": 3126
+    },
+    {
+      "make": "Tesla",
+      "model": "Model 3",
+      "year": 2023,
+      "price": 39999,
+      "horse_power": 283,
+      "weight": 3560
+    }
+  ]
+}
